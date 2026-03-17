@@ -1,8 +1,5 @@
-Hello there, I'm Diego Vega
+Hello there
 ===================================================================================================================================
-
-Full stack and data developer
------------------------------
 
 I like to build web applications and contribute through all the steps from concept to shipping. I'm always exploring new ways to make improvements to the product and help my team
 
