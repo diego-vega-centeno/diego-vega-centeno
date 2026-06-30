@@ -7,7 +7,9 @@ This attitude made me taught myself new tech and enjoy the process of building s
 
 * 🌍  I'm based in Lima, Peru
 * 🖥️  See my portfolio at [Diego Vega](http://diego-vega-portfolio.vercel.app/)
-* 🚀  I'm currently working on [OpenStreeMap administrative divisions](http://osm-administrative-divisions.vercel.app/)
+* 🚀  Projects I made:
+  *  [OpenStreeMap administrative divisions](http://osm-administrative-divisions.vercel.app/)
+  *  [Context Summary](https://context-summary.vercel.app/)
 * 🧠  I'm currently learning Docker
 
 ### Skills
